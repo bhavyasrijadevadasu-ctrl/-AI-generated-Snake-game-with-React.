@@ -1,0 +1,5 @@
+{
+  "name": "NEON_SERPENT_OS",
+  "description": "A retro-futuristic glitch-art terminal combining a snake simulation and audio playback module.",
+  "requestFramePermissions": []
+}
